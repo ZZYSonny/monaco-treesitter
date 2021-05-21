@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import {TreeEditor} from './component/TreeEditor';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <TreeEditor />
   </React.StrictMode>,
   document.getElementById('root')
 );

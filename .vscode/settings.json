@@ -1,0 +1,28 @@
+{
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "files.eol": "\n",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true,
+        "source.fixAll": true,
+        "source.organizeImports": true
+    },
+    "editor.formatOnPaste": true,
+    "editor.tabSize": 2,
+    "javascript.preferences.quoteStyle": "single",
+    "typescript.preferences.quoteStyle": "single",
+    "files.exclude": {
+        "**/.DS_Store": true,
+        "**/.git": true,
+        "**/.hg": true,
+        "**/.svn": true,
+        "**/CVS": true,
+        "node_modules": true,
+        "public":true,
+        ".eslintrc.js":true,
+        "yarn.lock":true,
+        "**/**.d.ts":true,
+        "src/setupTests.ts":true,
+        "src/logo.svg":true,
+        "src/reportWebVitals.ts":true
+    }
+}
