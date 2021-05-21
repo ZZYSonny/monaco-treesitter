@@ -5,4 +5,11 @@ WIP: A monaco editor library wrapper. Hopefully it will
 
 
 Workaround notes:
-- Create React App does not support wasm. So I used craco following https://github.com/adimit/react-wasm-github-api-demo.
+- Create React App, Webpack does not support local wasm
+  - So I hacked tree-sitter.js
+```
+            //hack
+            return fetch(
+              "https://cdn.jsdelivr.net/npm/web-tree-sitter@0.19.4/tree-sitter.wasm"
+            ).then(function (e) {
+```

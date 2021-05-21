@@ -1,7 +1,9 @@
 import Editor, { Monaco } from '@monaco-editor/react';
 import * as monaco from 'monaco-editor/esm/vs/editor/editor.api';
 import React from 'react';
+import Parser from 'web-tree-sitter';
 import './TreeEditor.css';
+
 // eslint-disable-next-line @typescript-eslint/no-empty-interface
 interface EditorProps{
 }
@@ -12,11 +14,12 @@ interface EditorState{
 
 export class TreeEditor extends React.Component<EditorProps,EditorState>{
   constructor(props: EditorProps) {
+    const a = Parser;
     super(props);
     this.state = {
     };
     // eslint-disable-next-line @typescript-eslint/no-var-requires
-    //Parser.init().then(()=>{console.log(1);});
+    Parser.init().then(()=>{console.log(1);});
   }
 
   async handleEditorDidMount(editor: monaco.editor.IStandaloneCodeEditor, monaco: Monaco): Promise<void> {
