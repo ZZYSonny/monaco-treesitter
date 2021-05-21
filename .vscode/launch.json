@@ -6,7 +6,7 @@
             "request": "launch",
             "url": "http://localhost:3000",
             "webRoot": "${workspaceFolder}",
-            "disableNetworkCache": true,
+            "disableNetworkCache": false,
             "internalConsoleOptions": "openOnSessionStart"
         }
     ]
