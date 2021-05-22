@@ -1,5 +1,9 @@
 {
   "name": "monaco_treesitter",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZZYSonny/monaco_treesitter.git"
+  },
   "homepage": "https://zzysonny.github.io/monaco_treesitter/",
   "version": "0.1.0",
   "private": true,
