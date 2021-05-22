@@ -1,5 +1,6 @@
 {
   "name": "monaco_treesitter",
+  "homepage": "https://zzysonny.github.io/monaco_treesitter/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
