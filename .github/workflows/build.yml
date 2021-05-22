@@ -1,0 +1,30 @@
+name: Build and Deploy
+
+# We want to build on all branches, deploy on master
+on: push
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2.3.1
+        
+      - name: Install
+        run: yarn install
+        
+      - name: Build
+        run: yarn run build
+
+      - name: Hack1
+        run: rm ./node_modules/web-tree-sitter/tree-sitter.js
+
+      - name: Hack2
+        run: cp ./tree-sitter.js ./node_modules/web-tree-sitter/tree-sitter.js
+
+      - name: Deploy
+        if: ${{ github.ref == 'refs/heads/master' }}
+        uses: JamesIves/github-pages-deploy-action@4.1.0
+        with:
+          branch: gh-pages
+          folder: build
