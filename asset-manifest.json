@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cd4f30ac.chunk.css",
+    "main.js": "/static/js/main.e91612ea.chunk.js",
+    "main.js.map": "/static/js/main.e91612ea.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.060c2762.js",
+    "runtime-main.js.map": "/static/js/runtime-main.060c2762.js.map",
+    "static/css/2.c17d68be.chunk.css": "/static/css/2.c17d68be.chunk.css",
+    "static/js/2.9e3de270.chunk.js": "/static/js/2.9e3de270.chunk.js",
+    "static/js/2.9e3de270.chunk.js.map": "/static/js/2.9e3de270.chunk.js.map",
+    "static/js/3.5befad79.chunk.js": "/static/js/3.5befad79.chunk.js",
+    "static/js/3.5befad79.chunk.js.map": "/static/js/3.5befad79.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.c17d68be.chunk.css.map": "/static/css/2.c17d68be.chunk.css.map",
+    "static/css/main.cd4f30ac.chunk.css.map": "/static/css/main.cd4f30ac.chunk.css.map",
+    "static/js/2.9e3de270.chunk.js.LICENSE.txt": "/static/js/2.9e3de270.chunk.js.LICENSE.txt",
+    "static/media/codicon.css": "/static/media/codicon.80a4c25b.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.060c2762.js",
+    "static/css/2.c17d68be.chunk.css",
+    "static/js/2.9e3de270.chunk.js",
+    "static/css/main.cd4f30ac.chunk.css",
+    "static/js/main.e91612ea.chunk.js"
+  ]
+}
