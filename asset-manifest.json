@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/monaco_treesitter/static/css/main.cd4f30ac.chunk.css",
-    "main.js": "/monaco_treesitter/static/js/main.e91612ea.chunk.js",
-    "main.js.map": "/monaco_treesitter/static/js/main.e91612ea.chunk.js.map",
+    "main.js": "/monaco_treesitter/static/js/main.b118087e.chunk.js",
+    "main.js.map": "/monaco_treesitter/static/js/main.b118087e.chunk.js.map",
     "runtime-main.js": "/monaco_treesitter/static/js/runtime-main.7ff0efb8.js",
     "runtime-main.js.map": "/monaco_treesitter/static/js/runtime-main.7ff0efb8.js.map",
     "static/css/2.2d3bb5dd.chunk.css": "/monaco_treesitter/static/css/2.2d3bb5dd.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.2d3bb5dd.chunk.css",
     "static/js/2.f4cfe8a6.chunk.js",
     "static/css/main.cd4f30ac.chunk.css",
-    "static/js/main.e91612ea.chunk.js"
+    "static/js/main.b118087e.chunk.js"
   ]
 }
