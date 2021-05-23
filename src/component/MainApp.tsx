@@ -19,7 +19,7 @@ export class MainApp extends React.Component<AppProps, AppState>{
 
   render(): JSX.Element {
     return <TreeEditor
-      language='python'
+      language='cpp'
       onReady={e=>console.log(e)}
       options={{
         fontSize: 18
