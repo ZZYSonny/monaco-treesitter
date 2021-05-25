@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/monaco_treesitter/static/css/main.cd4f30ac.chunk.css",
-    "main.js": "/monaco_treesitter/static/js/main.70cf5a42.chunk.js",
-    "main.js.map": "/monaco_treesitter/static/js/main.70cf5a42.chunk.js.map",
-    "runtime-main.js": "/monaco_treesitter/static/js/runtime-main.7ff0efb8.js",
-    "runtime-main.js.map": "/monaco_treesitter/static/js/runtime-main.7ff0efb8.js.map",
-    "static/css/2.2d3bb5dd.chunk.css": "/monaco_treesitter/static/css/2.2d3bb5dd.chunk.css",
-    "static/js/2.87427981.chunk.js": "/monaco_treesitter/static/js/2.87427981.chunk.js",
-    "static/js/2.87427981.chunk.js.map": "/monaco_treesitter/static/js/2.87427981.chunk.js.map",
-    "static/js/3.5befad79.chunk.js": "/monaco_treesitter/static/js/3.5befad79.chunk.js",
-    "static/js/3.5befad79.chunk.js.map": "/monaco_treesitter/static/js/3.5befad79.chunk.js.map",
-    "index.html": "/monaco_treesitter/index.html",
-    "static/css/2.2d3bb5dd.chunk.css.map": "/monaco_treesitter/static/css/2.2d3bb5dd.chunk.css.map",
-    "static/css/main.cd4f30ac.chunk.css.map": "/monaco_treesitter/static/css/main.cd4f30ac.chunk.css.map",
-    "static/js/2.87427981.chunk.js.LICENSE.txt": "/monaco_treesitter/static/js/2.87427981.chunk.js.LICENSE.txt",
-    "static/media/codicon.css": "/monaco_treesitter/static/media/codicon.80a4c25b.ttf"
+    "main.css": "/monaco-treesitter/static/css/main.cd4f30ac.chunk.css",
+    "main.js": "/monaco-treesitter/static/js/main.482a4195.chunk.js",
+    "main.js.map": "/monaco-treesitter/static/js/main.482a4195.chunk.js.map",
+    "runtime-main.js": "/monaco-treesitter/static/js/runtime-main.dd18ae24.js",
+    "runtime-main.js.map": "/monaco-treesitter/static/js/runtime-main.dd18ae24.js.map",
+    "static/css/2.305ea382.chunk.css": "/monaco-treesitter/static/css/2.305ea382.chunk.css",
+    "static/js/2.39e774b1.chunk.js": "/monaco-treesitter/static/js/2.39e774b1.chunk.js",
+    "static/js/2.39e774b1.chunk.js.map": "/monaco-treesitter/static/js/2.39e774b1.chunk.js.map",
+    "static/js/3.07edfb80.chunk.js": "/monaco-treesitter/static/js/3.07edfb80.chunk.js",
+    "static/js/3.07edfb80.chunk.js.map": "/monaco-treesitter/static/js/3.07edfb80.chunk.js.map",
+    "index.html": "/monaco-treesitter/index.html",
+    "static/css/2.305ea382.chunk.css.map": "/monaco-treesitter/static/css/2.305ea382.chunk.css.map",
+    "static/css/main.cd4f30ac.chunk.css.map": "/monaco-treesitter/static/css/main.cd4f30ac.chunk.css.map",
+    "static/js/2.39e774b1.chunk.js.LICENSE.txt": "/monaco-treesitter/static/js/2.39e774b1.chunk.js.LICENSE.txt",
+    "static/media/codicon.css": "/monaco-treesitter/static/media/codicon.80a4c25b.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.7ff0efb8.js",
-    "static/css/2.2d3bb5dd.chunk.css",
-    "static/js/2.87427981.chunk.js",
+    "static/js/runtime-main.dd18ae24.js",
+    "static/css/2.305ea382.chunk.css",
+    "static/js/2.39e774b1.chunk.js",
     "static/css/main.cd4f30ac.chunk.css",
-    "static/js/main.70cf5a42.chunk.js"
+    "static/js/main.482a4195.chunk.js"
   ]
 }
