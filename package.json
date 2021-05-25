@@ -1,10 +1,10 @@
 {
-  "name": "monaco_treesitter",
+  "name": "monaco-treesitter",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ZZYSonny/monaco_treesitter.git"
+    "url": "https://github.com/ZZYSonny/monaco-treesitter.git"
   },
-  "homepage": "https://zzysonny.github.io/monaco_treesitter/",
+  "homepage": "https://zzysonny.github.io/monaco-treesitter/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
